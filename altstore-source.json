@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.6.2",
+          "buildVersion": "15",
+          "date": "2026-11-23T23:00:12Z",
+          "localizedDescription": "0.6.2: stop labelling Uber rides as Uber Eats",
+          "size": 2557156,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.2-15/GigCommand-0.6.2-15.ipa"
+        },
+        {
           "version": "0.6.1",
           "buildVersion": "14",
           "date": "2026-11-23T22:56:22Z",
@@ -50,15 +59,6 @@
           "size": 2842096,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.5.1-11/GigCommand-0.5.1-11.ipa"
-        },
-        {
-          "version": "0.5.0",
-          "buildVersion": "10",
-          "date": "2026-11-23T22:25:47Z",
-          "localizedDescription": "0.5.0: offer history, earnings, accept detection, new look",
-          "size": 2800578,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.5.0-10/GigCommand-0.5.0-10.ipa"
         }
       ],
       "appPermissions": {
