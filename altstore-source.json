@@ -1,0 +1,49 @@
+{
+  "name": "Gig Command (private)",
+  "identifier": "com.gigcommand.source",
+  "sourceURL": "https://raw.githubusercontent.com/klown1214/gig-command-releases/main/altstore-source.json",
+  "subtitle": "Personal gig-driving copilot",
+  "iconURL": "https://raw.githubusercontent.com/klown1214/gig-command-releases/main/icon.png",
+  "tintColor": "#1EA7FD",
+  "apps": [
+    {
+      "name": "Gig Command",
+      "bundleIdentifier": "com.gigcommand.app",
+      "developerName": "Gig Command",
+      "subtitle": "Offer verdicts and shift mileage",
+      "localizedDescription": "Reads gig offers on your iPhone and rates them against your costs; logs shift mileage with GPS.",
+      "iconURL": "https://raw.githubusercontent.com/klown1214/gig-command-releases/main/icon.png",
+      "tintColor": "#1EA7FD",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "buildVersion": "8",
+          "date": "2026-11-23T22:03:40Z",
+          "localizedDescription": "iOS 0.3.0: Start shift opens the broadcast sheet; End shift stops it",
+          "size": 2594662,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.3.0-8/GigCommand-0.3.0-8.ipa"
+        },
+        {
+          "version": "0.2.0",
+          "buildVersion": "7",
+          "date": "2026-11-23T21:55:46Z",
+          "localizedDescription": "AltStore source: auto-publish new iPhone builds from the PC",
+          "size": 2585387,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.2.0-7/GigCommand-0.2.0-7.ipa"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Choose \"Always\" so Gig Command keeps counting shift miles while Uber, Lyft or DoorDash is on screen.",
+          "NSLocationWhenInUseUsageDescription": "Gig Command logs the miles you drive during a shift for your mileage records."
+        }
+      }
+    }
+  ],
+  "news": []
+}
