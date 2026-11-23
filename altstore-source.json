@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.6.1",
+          "buildVersion": "14",
+          "date": "2026-11-23T22:56:22Z",
+          "localizedDescription": "0.6.1: quick voice mute; 'connected' respects the voice setting",
+          "size": 2557012,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.1-14/GigCommand-0.6.1-14.ipa"
+        },
+        {
           "version": "0.6.0",
           "buildVersion": "13",
           "date": "2026-11-23T22:48:27Z",
@@ -50,15 +59,6 @@
           "size": 2800578,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.5.0-10/GigCommand-0.5.0-10.ipa"
-        },
-        {
-          "version": "0.4.0",
-          "buildVersion": "9",
-          "date": "2026-11-23T22:15:29Z",
-          "localizedDescription": "0.4.0: logs work without Tailscale (home Wi-Fi + offline outbox)",
-          "size": 2631418,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.4.0-9/GigCommand-0.4.0-9.ipa"
         }
       ],
       "appPermissions": {
