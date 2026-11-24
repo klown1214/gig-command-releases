@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.1",
+          "buildVersion": "24",
+          "date": "2026-11-24T11:20:49Z",
+          "localizedDescription": "0.9.1: record Uber no-show fees, ignore Gig Command's own screens in â€¦",
+          "size": 2873568,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.1-24/GigCommand-0.9.1-24.ipa"
+        },
+        {
           "version": "0.9.0",
           "buildVersion": "23",
           "date": "2026-11-24T03:44:00Z",
@@ -50,15 +59,6 @@
           "size": 2575958,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.7-20/GigCommand-0.6.7-20.ipa"
-        },
-        {
-          "version": "0.6.6",
-          "buildVersion": "19",
-          "date": "2026-11-24T01:16:37Z",
-          "localizedDescription": "0.6.6: no alerts from old offers in the app switcher",
-          "size": 2575954,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.6-19/GigCommand-0.6.6-19.ipa"
         }
       ],
       "appPermissions": {
