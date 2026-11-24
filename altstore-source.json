@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.6",
+          "buildVersion": "29",
+          "date": "2026-11-24T13:18:01Z",
+          "localizedDescription": "0.9.6: don't mark an offer passed when the home screen only flashes aâ€¦",
+          "size": 2900619,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.6-29/GigCommand-0.9.6-29.ipa"
+        },
+        {
           "version": "0.9.5",
           "buildVersion": "28",
           "date": "2026-11-24T12:40:25Z",
@@ -50,15 +59,6 @@
           "size": 2878237,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.2-25/GigCommand-0.9.2-25.ipa"
-        },
-        {
-          "version": "0.9.1",
-          "buildVersion": "24",
-          "date": "2026-11-24T11:20:49Z",
-          "localizedDescription": "0.9.1: record Uber no-show fees, ignore Gig Command's own screens in â€¦",
-          "size": 2873568,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.1-24/GigCommand-0.9.1-24.ipa"
         }
       ],
       "appPermissions": {
