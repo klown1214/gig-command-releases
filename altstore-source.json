@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.6.6",
+          "buildVersion": "19",
+          "date": "2026-11-24T01:16:37Z",
+          "localizedDescription": "0.6.6: no alerts from old offers in the app switcher",
+          "size": 2575954,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.6-19/GigCommand-0.6.6-19.ipa"
+        },
+        {
           "version": "0.6.5",
           "buildVersion": "18",
           "date": "2026-11-24T00:56:39Z",
@@ -50,15 +59,6 @@
           "size": 2557156,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.2-15/GigCommand-0.6.2-15.ipa"
-        },
-        {
-          "version": "0.6.1",
-          "buildVersion": "14",
-          "date": "2026-11-23T22:56:22Z",
-          "localizedDescription": "0.6.1: quick voice mute; 'connected' respects the voice setting",
-          "size": 2557012,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.1-14/GigCommand-0.6.1-14.ipa"
         }
       ],
       "appPermissions": {
