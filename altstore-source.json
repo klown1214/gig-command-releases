@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.6.4",
+          "buildVersion": "17",
+          "date": "2026-11-24T00:04:24Z",
+          "localizedDescription": "0.6.4: don't alert on Gig Command's own screens",
+          "size": 2572860,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.4-17/GigCommand-0.6.4-17.ipa"
+        },
+        {
           "version": "0.6.3",
           "buildVersion": "16",
           "date": "2026-11-23T23:10:37Z",
@@ -50,15 +59,6 @@
           "size": 2552315,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.0-13/GigCommand-0.6.0-13.ipa"
-        },
-        {
-          "version": "0.5.2",
-          "buildVersion": "12",
-          "date": "2026-11-23T22:33:06Z",
-          "localizedDescription": "0.5.2: richer offer notifications, full icon set",
-          "size": 1895217,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.5.2-12/GigCommand-0.5.2-12.ipa"
         }
       ],
       "appPermissions": {
