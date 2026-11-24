@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.6.5",
+          "buildVersion": "18",
+          "date": "2026-11-24T00:56:39Z",
+          "localizedDescription": "0.6.5: read the main fare, not a bonus line",
+          "size": 2573705,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.5-18/GigCommand-0.6.5-18.ipa"
+        },
+        {
           "version": "0.6.4",
           "buildVersion": "17",
           "date": "2026-11-24T00:04:24Z",
@@ -50,15 +59,6 @@
           "size": 2557012,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.1-14/GigCommand-0.6.1-14.ipa"
-        },
-        {
-          "version": "0.6.0",
-          "buildVersion": "13",
-          "date": "2026-11-23T22:48:27Z",
-          "localizedDescription": "0.6.0: platform readers, slow-night, sounds, watch alert, widgets, Liâ€¦",
-          "size": 2552315,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.6.0-13/GigCommand-0.6.0-13.ipa"
         }
       ],
       "appPermissions": {
