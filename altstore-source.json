@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.7",
+          "buildVersion": "30",
+          "date": "2026-11-25T12:52:10Z",
+          "localizedDescription": "0.9.7: fixes from the Nov 25 Uber shift",
+          "size": 2907538,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.7-30/GigCommand-0.9.7-30.ipa"
+        },
+        {
           "version": "0.9.6",
           "buildVersion": "29",
           "date": "2026-11-24T13:18:01Z",
@@ -50,15 +59,6 @@
           "size": 2880713,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.3-26/GigCommand-0.9.3-26.ipa"
-        },
-        {
-          "version": "0.9.2",
-          "buildVersion": "25",
-          "date": "2026-11-24T12:01:29Z",
-          "localizedDescription": "0.9.2: read DoorDash's real offer card, ignore earnings lists as offeâ€¦",
-          "size": 2878237,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.2-25/GigCommand-0.9.2-25.ipa"
         }
       ],
       "appPermissions": {
