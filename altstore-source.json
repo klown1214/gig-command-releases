@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.13",
+          "buildVersion": "37",
+          "date": "2026-11-25T14:02:58Z",
+          "localizedDescription": "0.9.13: floating window fixes from the first live run (Nov 25, 8:00)",
+          "size": 2968392,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.13-37/GigCommand-0.9.13-37.ipa"
+        },
+        {
           "version": "0.9.12",
           "buildVersion": "36",
           "date": "2026-11-25T13:53:36Z",
@@ -50,15 +59,6 @@
           "size": 2914479,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.9-33/GigCommand-0.9.9-33.ipa"
-        },
-        {
-          "version": "0.9.8",
-          "buildVersion": "31",
-          "date": "2026-11-25T12:59:53Z",
-          "localizedDescription": "0.9.8: offers taken from Uber's Trip Radar count as taken",
-          "size": 2911727,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.8-31/GigCommand-0.9.8-31.ipa"
         }
       ],
       "appPermissions": {
