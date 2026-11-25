@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.14",
+          "buildVersion": "38",
+          "date": "2026-11-25T14:07:02Z",
+          "localizedDescription": "0.9.14: floating window is the alert; Spark offers leave it when theyâ€¦",
+          "size": 2973865,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.14-38/GigCommand-0.9.14-38.ipa"
+        },
+        {
           "version": "0.9.13",
           "buildVersion": "37",
           "date": "2026-11-25T14:02:58Z",
@@ -50,15 +59,6 @@
           "size": 2917973,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.10-34/GigCommand-0.9.10-34.ipa"
-        },
-        {
-          "version": "0.9.9",
-          "buildVersion": "33",
-          "date": "2026-11-25T13:26:09Z",
-          "localizedDescription": "0.9.9: fix stray control characters in the Spark pattern",
-          "size": 2914479,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.9-33/GigCommand-0.9.9-33.ipa"
         }
       ],
       "appPermissions": {
