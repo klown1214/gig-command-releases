@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.10",
+          "buildVersion": "34",
+          "date": "2026-11-25T13:33:46Z",
+          "localizedDescription": "0.9.10: Spark reads each card on the list; only good Spark offers alert",
+          "size": 2917973,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.10-34/GigCommand-0.9.10-34.ipa"
+        },
+        {
           "version": "0.9.9",
           "buildVersion": "33",
           "date": "2026-11-25T13:26:09Z",
@@ -50,15 +59,6 @@
           "size": 2900619,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.6-29/GigCommand-0.9.6-29.ipa"
-        },
-        {
-          "version": "0.9.5",
-          "buildVersion": "28",
-          "date": "2026-11-24T12:40:25Z",
-          "localizedDescription": "0.9.5: read Lyft's day total from its home screen",
-          "size": 2900217,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.5-28/GigCommand-0.9.5-28.ipa"
         }
       ],
       "appPermissions": {
