@@ -16,6 +16,15 @@
       "tintColor": "#1EA7FD",
       "versions": [
         {
+          "version": "0.9.18",
+          "buildVersion": "42",
+          "date": "2026-11-27T23:31:51Z",
+          "localizedDescription": "0.9.18: widget finds the shared App Group (was stuck at $0)",
+          "size": 2977416,
+          "minOSVersion": "17.0",
+          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.18-42/GigCommand-0.9.18-42.ipa"
+        },
+        {
           "version": "0.9.17",
           "buildVersion": "41",
           "date": "2026-11-27T16:21:26Z",
@@ -50,15 +59,6 @@
           "size": 2973865,
           "minOSVersion": "17.0",
           "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.14-38/GigCommand-0.9.14-38.ipa"
-        },
-        {
-          "version": "0.9.13",
-          "buildVersion": "37",
-          "date": "2026-11-25T14:02:58Z",
-          "localizedDescription": "0.9.13: floating window fixes from the first live run (Nov 25, 8:00)",
-          "size": 2968392,
-          "minOSVersion": "17.0",
-          "downloadURL": "https://github.com/klown1214/gig-command-releases/releases/download/v0.9.13-37/GigCommand-0.9.13-37.ipa"
         }
       ],
       "appPermissions": {
